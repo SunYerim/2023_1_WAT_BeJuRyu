@@ -20,6 +20,37 @@
 	</h3>	
 </p>
 
+## Module Dependency
+![BE주류 Module Dependency](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu/assets/77484719/8728ac34-7cac-4cf1-9eef-6bd29875eee0)
+
+
+## Android Tech Stack
+
+- Minumum SDK 26 & Target SDK 33
+- Kotlin
+    - Kotlin 1.8.10v
+    - Coroutines & Flow 
+- Dependency Injection
+    - Dagger Hilt
+- Android Jetpack
+    - CameraX & PhotoPicker
+    - Navigation Component
+    - DataBinding & ViewBinding
+- Local 
+    - Encrypted SharedPreference
+- Remote
+    - Retrofit2 & OkHttp3
+    - Kotlinx Serialization
+- Firebase
+    - Analytics & Crashlytics
+- Third Party
+    - Glide
+    - Material Components
+    - Timber
+    - ProcessPhoenix
+    - Lottie
+- [verison_catalog](https://github.com/pknu-wap/2023_1_WAT_BeJuRyu/blob/develop_android/android/gradle/libs.version.toml)
+</br>
 
 ## 🍷 Contributors 🍷
 
